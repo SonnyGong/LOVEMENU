@@ -1,8 +1,12 @@
+---
+typora-copy-images-to: ./back/IMG_2470.JPG
+---
+
 # 深夜食堂点单系统（LOVEMENU）
 
 这是一个使用 Streamlit 构建的深夜食堂点单系统，用户可以通过图片选择菜品，添加到点单列表，并通知后厨准备。系统还支持菜品的删除操作，并且会将点单信息通过 Bark 通知推送给后厨。
 
-<img src="LOVEMENU/back/IMG_2470.JPG" alt="IMG_2470" style="zoom:33%;" />
+<img src="/Users/nottoday/CODE/DEMOS/LOVEMENU/back/IMG_2470.JPG" alt="IMG_2470" style="zoom:25%;" />
 
 ## 功能特点
 
